@@ -1243,27 +1243,6 @@
 			)
 		)
 	)
-	(gr_arc
-		(start 100 46.5)
-		(mid 100.87868 44.37868)
-		(end 103 43.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "42d5b9a3-d935-43ec-bdfc-fa50e30497f4")
-	)
-	(gr_line
-		(start 100 47)
-		(end 100 46.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "5003d121-afa9-4506-b1cb-3d24d05e3522")
-	)
 	(gr_line
 		(start 100 63)
 		(end 100 81)
@@ -1273,37 +1252,6 @@
 		)
 		(layer "Dwgs.User")
 		(uuid "4785dad4-8d69-4ebb-ad9a-015d184243b4")
-	)
-	(gr_line
-		(start 162 43.5)
-		(end 103 43.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "01542f4c-3eb2-4377-aa27-d2b8ce1768a9")
-	)
-	(gr_arc
-		(start 162 43.5)
-		(mid 164.12132 44.37868)
-		(end 165 46.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "5e402a36-e967-4e97-aadc-cb7fffb01a5a")
-	)
-	(gr_line
-		(start 165 47)
-		(end 165 46.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "1c827ef1-a4b7-41e6-9843-2391dad87159")
 	)
 	(gr_rect
 		(start 166 81.825)
@@ -1550,18 +1498,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "28e9ec81-3c9e-45e1-be06-2c4bf6e056f0")
-	)
-	(gr_text "Extend PCB edge 0.5mm if using SMT header"
-		(at 103 42.5 0)
-		(layer "Dwgs.User")
-		(uuid "5655325a-c0de-4b05-aadb-72ac1902d527")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left)
-		)
 	)
 	(gr_text "PoE"
 		(at 161.5 53.64 0)
