@@ -3,7 +3,7 @@
 
 ## Overview
 
-The CAN Bus Thing is an automotive-grade Raspberry Pi HAT designed for vehicle CAN bus analysis, reverse engineering, logging, and development.
+The Dual CAN Hat is an automotive-grade Raspberry Pi HAT designed for vehicle CAN bus analysis, reverse engineering, logging, and development.
 
 The board provides:
 
