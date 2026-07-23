@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Adafruit") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Adafruit") (options "") (descr "Adafruit parts"))
+)
